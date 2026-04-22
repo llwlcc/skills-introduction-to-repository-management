@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @llwlcc
+/src/backend/database.py      @llwlcc
+/src/backend/routers/auth.py  @llwlcc
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @llwlcc
